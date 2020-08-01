@@ -2,7 +2,7 @@
 
 - 👨🏼‍💻 building Web-Apps,Wordpress Websites
 - 🧠 learning [Angular][Angular]
-- 💜 loving JavaScript, [tailwind][tailwind] and [PHP][PHP]  
+- 💜 loving JavaScript, [PHP][PHP]  
 
 🏡 [website][website] **|**
 👔 [linkedin][linkedin] **|**
@@ -10,6 +10,7 @@
 🐦 [twitter][twitter] **|** 
 
 [Angular]: https://angular.io/
+[PHP]: https://www.php.net/
 [website]: https://sahil-shethna.github.io/resume/
 [twitter]: https://twitter.com/sahil_shethna
 [instagram]: https://www.instagram.com/sahil_shethna/
