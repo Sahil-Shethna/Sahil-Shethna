@@ -1,11 +1,7 @@
-### Hi there 👋
-
 ### Hey There I'm Sahil👋
 
 - 👨🏼‍💻 building Web-Apps,Wordpress Websites
-<!--
-- 🧠 learning [NodeJs][NodeJs], [tailwind][tailwind] and [AWS][AWS]
--->
+- 🧠 learning [Angular][Angular]
 - 💜 loving JavaScript, [tailwind][tailwind] and [PHP][PHP]  
 
 🏡 [website][website] **|**
@@ -13,10 +9,7 @@
 📷 [instagram][instagram] **|** 
 🐦 [twitter][twitter] **|** 
 
-[NodeJs]: https://nodejs.org/en/
-[AWS]: https://aws.amazon.com/
-[Python]: https://www.python.org/
-[tailwind]: https://tailwindcss.com
+[Angular]: https://angular.io/
 [website]: https://sahil-shethna.github.io/resume/
 [twitter]: https://twitter.com/sahil_shethna
 [instagram]: https://www.instagram.com/sahil_shethna/
