@@ -1,7 +1,28 @@
 ### Hi there 👋
 
+### Hey There I'm Sahil👋
+
+- 👨🏼‍💻 building Web-Apps,Wordpress Websites
 <!--
-**Sahil-Shethna/Sahil-Shethna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧠 learning [NodeJs][NodeJs], [tailwind][tailwind] and [AWS][AWS]
+-->
+- 💜 loving JavaScript, [tailwind][tailwind] and [PHP][PHP]  
+
+🏡 [website][website] **|**
+👔 [linkedin][linkedin] **|**
+📷 [instagram][instagram] **|** 
+🐦 [twitter][twitter] **|** 
+
+[NodeJs]: https://nodejs.org/en/
+[AWS]: https://aws.amazon.com/
+[Python]: https://www.python.org/
+[tailwind]: https://tailwindcss.com
+[website]: https://sahil-shethna.github.io/resume/
+[twitter]: https://twitter.com/sahil_shethna
+[instagram]: https://www.instagram.com/sahil_shethna/
+[linkedin]: https://www.linkedin.com/in/sahil-shethna-9a8258146/
+
+<!--**Sahil-Shethna/Sahil-Shethna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
